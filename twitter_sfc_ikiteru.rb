@@ -3,6 +3,7 @@
 require 'rubygems'
 require 'bundler/setup'
 require 'twitter'
+require 'json'
 require 'sfc_ikiteru'
 require 'yaml'
 require 'rainbow'
